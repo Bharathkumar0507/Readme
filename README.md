@@ -4,5 +4,5 @@
 - Voice Assistant using Python & ChatGPT  
 - Full-stack E-Commerce Website  
 
-🔗 Portfolio: [Coming Soon]  
-📫 Reach me: bharath@example.com
+🔗 Portfolio: https://bharathkumar05.netlify.app/# 
+📫 Reach me: www.linkedin.com/in/bharathkumar05
